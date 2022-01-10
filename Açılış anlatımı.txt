@@ -1,0 +1,5 @@
+Php tabanlı okul sitesine girip admin paneli vasıtasıyla giriş yapıp açılan panelde haberler,duyurular ve site başlığı değiştirme seçenekleri bulunmaktadır.
+Haberler kısmında habere fotoğraf yükleme, silme,değiştirme ve yeni haber oluşturmayı sağlıyor.
+Duyurular kısmında ise silme,değiştirme ve yeni duyuru eklemeyi sağlıyor.
+
+xamp kurup phpmyadminle export ettiğim kullanıcılar isimli veritabanını inport edip çalıştırabilirsiniz.
