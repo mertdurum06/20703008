@@ -3,3 +3,6 @@ Haberler kısmında habere fotoğraf yükleme, silme,değiştirme ve yeni haber 
 Duyurular kısmında ise silme,değiştirme ve yeni duyuru eklemeyi sağlıyor.
 
 xamp kurup phpmyadminle export ettiğim kullanıcılar isimli veritabanını inport edip çalıştırabilirsiniz.
+admin panel giriş için
+kullanıcı adı: user
+şifre: user
